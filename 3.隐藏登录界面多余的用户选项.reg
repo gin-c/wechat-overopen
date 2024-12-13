@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList]
+"w1"=dword:00000000
+"w2"=dword:00000000
+"w3"=dword:00000000
+"w4"=dword:00000000
+"w5"=dword:00000000
+"w6"=dword:00000000
+"w7"=dword:00000000
